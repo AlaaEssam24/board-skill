@@ -1,0 +1,25 @@
+{
+  "name": "board-skill",
+  "owner": {
+    "name": "Alaa Essam",
+    "url": "https://github.com/AlaaEssam24"
+  },
+  "metadata": {
+    "description": "Board: a 14-seat AI advisory board skill for Claude.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "board",
+      "source": "./",
+      "description": "A 14-seat AI advisory board that pressure-tests business decisions, forces real disagreement, turns the verdict into owned actions, and grades its own past calls.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alaa Essam"
+      },
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["advisory-board", "decision-making", "strategy", "startup"]
+    }
+  ]
+}

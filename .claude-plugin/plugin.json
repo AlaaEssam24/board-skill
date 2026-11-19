@@ -1,0 +1,22 @@
+{
+  "name": "board",
+  "description": "A 14-seat AI advisory board that pressure-tests business decisions, forces real disagreement, turns the verdict into owned actions, and grades its own past calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alaa Essam",
+    "url": "https://github.com/AlaaEssam24"
+  },
+  "homepage": "https://github.com/AlaaEssam24/board-skill",
+  "repository": "https://github.com/AlaaEssam24/board-skill",
+  "license": "MIT",
+  "keywords": [
+    "agent-skill",
+    "claude-skill",
+    "advisory-board",
+    "decision-making",
+    "strategy",
+    "startup",
+    "founders",
+    "pre-mortem"
+  ]
+}
